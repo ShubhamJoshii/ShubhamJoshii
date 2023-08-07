@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjoshii&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjoshii" /> </p>
 
-- 🔭 I’m currently working on [Talkie-Chat](https://talkie-chat.vercel.app/)
+- 🔭 I’m currently working on [Perky-Beans](https://perky-beans.vercel.app/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhamjoshii676@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=view&id=1PMaHBO4ZdWk5vPmwZritqht52KJ7SMx1](https://drive.google.com/uc?export=view&id=1PMaHBO4ZdWk5vPmwZritqht52KJ7SMx1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rXEOG3PZxfSsJtCCbUHR8rAgQtPgX0BZ/view?usp=drive_link](https://drive.google.com/file/d/1rXEOG3PZxfSsJtCCbUHR8rAgQtPgX0BZ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
